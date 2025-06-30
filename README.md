@@ -29,8 +29,4 @@ Este projeto foi desenvolvido como parte do **Módulo 3** da disciplina de Banco
 
 ## 🔗 Repositório no GitHub
 
-> Em breve: [https://github.com/SEU_USUARIO/sistema-de-tarefas-db](https://github.com/SEU_USUARIO/sistema-de-tarefas-db)
 
----
-
-**Desenvolvido por João Victor dos Anjos**
